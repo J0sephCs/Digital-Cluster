@@ -117,7 +117,3 @@ cmake --build .
 
 **Mouse Interaction**: The map panels in the layouts support panning (click and drag) and zooming (scroll wheel).
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
