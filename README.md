@@ -19,11 +19,10 @@ A high-performance, visually immersive digital instrument cluster built with **Q
 
 ## Features
 
-**Dynamic Gauge System**: A custom-drawn central RPM/Speed gauge using QML Canvas 2D with a smooth-rotating needle and reactive redline zones.
+* **Dynamic Gauge System**: A custom-drawn central RPM/Speed gauge using QML Canvas 2D with a smooth-rotating needle and reactive redline zones.
 
 
-* **Dual View Layouts**:
-**Standard Mode**: Focused on driving with a central gauge flanked by a side-panel map and telemetry.
+* **Standard Mode**: Focused on driving with a central gauge flanked by a side-panel map and telemetry.
 
 * **Navigation Mode**: A full-screen map-centric view with essential vehicle data overlays.
 
