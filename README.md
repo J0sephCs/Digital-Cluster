@@ -36,6 +36,10 @@ A high-performance, visually immersive digital instrument cluster built with **Q
 * **Startup Sequence**: A professional animation sequence featuring logo fades and UI scaling transitions upon application launch.
 
 
+##
+<img width="2124" height="778" alt="Architecture review - Page 1" src="https://github.com/user-attachments/assets/3a30bc4c-6442-4eb9-bf4b-be32eb73d89a" />
+
+
 ## Technology Stack
 
  
