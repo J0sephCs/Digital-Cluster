@@ -9,9 +9,11 @@ A high-performance, visually immersive digital instrument cluster built with **Q
   </tr>
 
   <tr>
-    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/bbc8ff5e-a944-4818-a283-20c457c4a631" /></td>
-    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/1fab8a18-a918-4688-be36-b88abd51710a" /></td>
+    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/ae365bea-ec76-43cc-b8c2-aee9ad6b1dab" /> </td>
+    <td><img width="1750" height="790" alt="image" src="https://github.com/user-attachments/assets/465ae564-d2d7-41aa-bf10-c9524573c164" /></td>
   </tr>
+
+  
 </table>
 
 
